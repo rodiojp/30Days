@@ -1,0 +1,12 @@
+C:\_projects\CSharp\Person\PersonLib\bin\Debug\net5.0\PersonLib.deps.json
+C:\_projects\CSharp\Person\PersonLib\bin\Debug\net5.0\PersonLib.dll
+C:\_projects\CSharp\Person\PersonLib\bin\Debug\net5.0\ref\PersonLib.dll
+C:\_projects\CSharp\Person\PersonLib\bin\Debug\net5.0\PersonLib.pdb
+C:\_projects\CSharp\Person\PersonLib\obj\Debug\net5.0\PersonLib.csprojAssemblyReference.cache
+C:\_projects\CSharp\Person\PersonLib\obj\Debug\net5.0\PersonLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\_projects\CSharp\Person\PersonLib\obj\Debug\net5.0\PersonLib.AssemblyInfoInputs.cache
+C:\_projects\CSharp\Person\PersonLib\obj\Debug\net5.0\PersonLib.AssemblyInfo.cs
+C:\_projects\CSharp\Person\PersonLib\obj\Debug\net5.0\PersonLib.csproj.CoreCompileInputs.cache
+C:\_projects\CSharp\Person\PersonLib\obj\Debug\net5.0\PersonLib.dll
+C:\_projects\CSharp\Person\PersonLib\obj\Debug\net5.0\ref\PersonLib.dll
+C:\_projects\CSharp\Person\PersonLib\obj\Debug\net5.0\PersonLib.pdb
